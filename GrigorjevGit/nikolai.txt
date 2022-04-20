@@ -1,0 +1,22 @@
+1.ülesanne palun leida viiga ja tee fix(/*...*/).
+
+1)SELECT    CustomerID; CustomerName * FROM Customers
+2)CREATE TABLE instructor * (
+  ID = CHAR(5),
+  name = VARCHAR(20) NOT NULL,
+  dept_name = VARCHAR(20),
+  salary = NUMERIC(8,2),
+  PRIMARY KEY = (ID),
+  FOREIGN KEY = (dept_name) REFERENCES department(dept_name)
+);
+
+2. Oma ülesanne(1) (tõlkige sõnad sisse, märkides need kommentaaridesse(eesti-inglish))
+
+1) Tarkvara
+2) Operatsiooni süstem
+3) Riistvara
+
+3. Oma ülesanne(2) (andke vastused küsimustele(eesti keeles)vastus on kommentar(/*...*/)
+
+1.Lihtsaim programmeerimiskeel algajatele?
+2.Millist looma kasutatakse pildi jaoks LINUX?

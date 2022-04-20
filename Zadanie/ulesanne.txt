@@ -1,0 +1,10 @@
+1. 2 SQL: //find errors
+	1. select from Customers
+	2. join Customers TO Orders.CustomerID = Customers.CustomerID
+2. My exercise //find errors
+	1. background_image; Black: 
+	2. <body>
+	      <div>
+                  <img src=img_girl.jpg> 
+	      </div>
+	   <body>
